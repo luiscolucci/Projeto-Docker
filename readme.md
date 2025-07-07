@@ -51,7 +51,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ---
 
-## Autenticado no Google Cloud
+## Autenticado no Google Cloud.
 
 '''sh
 gcloud auth login
